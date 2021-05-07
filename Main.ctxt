@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ producer()
+comment2.params=
+comment2.target=void\ consumer()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ run()
+numComments=6
